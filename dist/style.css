@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+
+:root {
+    --primary: aqua; 
+    --secondary: 
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#head {
+    background-color: var(--primary);
+    color: gray;
+    align-items: center;
+    text-align: center;
+}
+
+#head-text {
+    background-color: var(--primary);
+    font-size: 55px;
+}
