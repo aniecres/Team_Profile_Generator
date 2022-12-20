@@ -14,12 +14,32 @@ body {
 
 #head {
     background-color: var(--primary);
+    font-size: 70px;
     color: gray;
-    align-items: center;
     text-align: center;
+    align-items: center; 
 }
 
 #head-text {
     background-color: var(--primary);
-    font-size: 55px;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+.card-head {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.card-bod {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.conainer {
+    display: flex;
+    margin: 100px auto;
+    justify-content: space-evenly;
+
 }
