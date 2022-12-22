@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    background-color: rgb(218, 195, 195);
+    
 }
 
 :root {
@@ -34,11 +34,13 @@ body {
 }
 
 .card-head {
+    /* display: flex; */
     background-color: var(--secondary);
     color: var(--primary);
 }
 
 .card-bod {
-    background-color: var(--secondary);
+    /* display: flex; */
+    background-color: rgb(218, 195, 195);
     color: var(--primary);
 }
