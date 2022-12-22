@@ -24,6 +24,8 @@ You will use Node Index to start answering the questions through the terminal an
 
 ## License 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Tests 
 This app uses Jest. This is used to test the constructors to make sure that they are doing what is expected. You can find these files under the __Tests__ folder. 
 
