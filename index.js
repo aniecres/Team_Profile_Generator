@@ -8,4 +8,8 @@ const Intern = require('./lib/Intern');
 const Manager = require('./lib/Manager')
 
 // HTML
-const generateHTML = 
+const generateHTML = require('./src/generateHTML');
+
+// Team members
+const teamArr = [];
+
