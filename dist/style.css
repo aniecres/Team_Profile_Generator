@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    background-color: black;
+    background-color: rgb(218, 195, 195);
 }
 
 :root {
     --primary: aqua; 
-    --secondary: 
+    --secondary: black;
 }
 
 body {
@@ -27,6 +27,12 @@ body {
     text-align: center;
 }
 
+.conainer {
+    display: flex;
+    margin: 100px auto;
+    justify-content: space-evenly;
+}
+
 .card-head {
     background-color: var(--secondary);
     color: var(--primary);
@@ -35,11 +41,4 @@ body {
 .card-bod {
     background-color: var(--secondary);
     color: var(--primary);
-}
-
-.conainer {
-    display: flex;
-    margin: 100px auto;
-    justify-content: space-evenly;
-
 }
