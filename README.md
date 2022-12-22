@@ -20,7 +20,7 @@ Inquirer <br>
 FS <br>
 
 ## Usage 
-You will use Node Index to start answering the questions through the terminal and be able to generate the HTML. 
+You will use Node Index to start answering the questions through the terminal and be able to generate the HTML page. 
 
 ## License 
 
@@ -30,4 +30,5 @@ This app uses Jest. This is used to test the constructors to make sure that they
 ## Questions 
 Please contact:<br>
 Email: aniecrespo@yahoo.com
+<br>
 Github - https://github.com/aniecres
